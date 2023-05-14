@@ -39,6 +39,11 @@ BTC Ai trade bot | Work in progress..
   https://github.com/MMatulenko/mm_data_science/blob/main/ffnn_from_scratch.ipynb
   
 -------------
+7) Liquid Neural Network - robustness without overparametrisation
+https://github.com/MMatulenko/LNN
+
+-------------
+
 
  ♜ Other works: https://github.com/MMatulenko/mm_data_science/
 
