@@ -48,8 +48,8 @@ https://github.com/MMatulenko/LNN
  ♜ Other works: https://github.com/MMatulenko/mm_data_science/
 
 
- ♗ Currently studiyng: Deep learning, NLP and ****AGI****. (general / genetic)
+ ♗ Currently: Deep learning, NLP and ****AGI****. (general / genetic)
 
- ♘ I’m looking to collaborate on Large Language Models (LLM) and Artificial general intelligence. Recreate an evolution but for NN.
+ ♘ I’m looking to collaborate on Large Language Models (LLM) and Artificial general intelligence.
  
  ♙ How to reach me: 8varka8@gmail.com | matulenko.maksims@gmail.com
