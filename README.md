@@ -44,6 +44,10 @@ https://github.com/MMatulenko/LNN
 
 -------------
 
+8) RL Lunar simple ai, Pacman with Convolution layer, A3C for Kung Fu
+https://github.com/MMatulenko/RL/tree/main
+
+-------------
 
  ♜ Other works: https://github.com/MMatulenko/mm_data_science/
 
