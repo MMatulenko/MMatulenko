@@ -52,7 +52,7 @@ https://github.com/MMatulenko/RL/tree/main
  ♜ Other works: https://github.com/MMatulenko/mm_data_science/
 
 
- ♗ Currently: Deep learning, NLP and ****AGI****. (general / genetic)
+ ♗ Currently: Deep learning, NLP and ****AGI****
 
  ♘ I’m looking to collaborate on Large Language Models (LLM) and Artificial general intelligence.
  
